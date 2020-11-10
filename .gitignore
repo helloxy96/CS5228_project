@@ -1,2 +1,6 @@
 .idea/
 .DS_Store
+.ipynb_checkpoints/feature_selection-checkpoint.ipynb
+.ipynb_checkpoints/Modelling-checkpoint.ipynb
+.ipynb_checkpoints/Report-checkpoint.ipynb
+.ipynb_checkpoints/sba_predict_ls-checkpoint.ipynb
