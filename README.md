@@ -1,3 +1,7 @@
 # CS5228_project
 
-https://github.com/Pranavd0828/SBA-LoanApproval-Predictve-Modeling
+Report.ipynb: Data clean, exploration, anaylsis and fine-tune process
+
+inference.ipynb: internal test purpose and predict Kaggle test data
+
+predict.csv: final kaggle predict result
